@@ -1,0 +1,12 @@
+p {
+    color:rgb(42, 42, 207);
+    background-color:rgb(6, 42, 77);
+
+}
+
+section {
+    color:rgb(124, 36, 36);
+    border: 2px rgb(67, 255, 20);
+    margin: 20px;
+    padding: 20px;
+}
